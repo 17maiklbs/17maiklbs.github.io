@@ -1,0 +1,23 @@
+center: 60.4120909, 5.2203144
+zoom: 18
+markers:
+  - title: Cafe
+    text: Coffee and cake
+    latlng: 60.412043, 5.219704
+  - title: Ice Cream
+    text: Ice cream for everyone
+    latlng: 60.411880, 5.22000
+polygons:
+  - title: Gratis Leker
+    text:
+      - This is a tooltip with no title...
+      - ...and with multiple lines of text
+    latlng:
+      - 60.4125238, 5.2207105
+      - 60.4125166, 5.2200648
+      - 60.4122715, 5.2200760
+      - 60.4122786, 5.2207217
+      
+      
+      
+      

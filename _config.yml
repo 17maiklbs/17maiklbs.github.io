@@ -1,0 +1,25 @@
+title: 🇳🇴 Hjem
+description: Kleppestø Barneskole 17 Mai feiring 2024
+# baseurl: 
+url: https://17maiklbs.github.io
+
+permalink: pretty
+theme: jekyll-nagymaros
+
+home: /
+copyright: KLBS
+indexing: true
+
+exclude:
+  - LICENSE
+  - README.md
+  - Gemfile
+  - vendor/
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+sass:
+  sourcemap: never
+  
