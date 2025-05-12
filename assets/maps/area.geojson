@@ -1,0 +1,223 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Leker",
+        "description": "Sykling, stylter og fotball."
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              5.2200708182441815,
+              60.41251743065544
+            ],
+            [
+              5.2200708182441815,
+              60.41227993683927
+            ],
+            [
+              5.220717352542749,
+              60.41227993683927
+            ],
+            [
+              5.220717352542749,
+              60.41251743065544
+            ],
+            [
+              5.2200708182441815,
+              60.41251743065544
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": 0
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Kafe",
+        "description": "Kake, kaffe/te og brus"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              5.219569412572781,
+              60.41206816572003
+            ],
+            [
+              5.219569412572781,
+              60.41186423685835
+            ],
+            [
+              5.219845514446803,
+              60.41186423685835
+            ],
+            [
+              5.219845514446803,
+              60.41206816572003
+            ],
+            [
+              5.219569412572781,
+              60.41206816572003
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": 1
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Is",
+        "icon": "🍦"
+      },
+      "geometry": {
+        "coordinates": [
+          5.22000980564755,
+          60.41187550360786
+        ],
+        "type": "Point"
+      },
+      "id": 2
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Lynlodd",
+        "icon": "🌟"
+      },
+      "geometry": {
+        "coordinates": [
+          5.219827258953387,
+          60.41222026645312
+        ],
+        "type": "Point"
+      },
+      "id": 3
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Kast",
+        "icon": "🤾"
+      },
+      "geometry": {
+        "coordinates": [
+          5.220641873575829,
+          60.411553270978345
+        ],
+        "type": "Point"
+      },
+      "id": 4
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Spiker",
+        "description": "slkdfjlskd",
+        "icon": "🔨"
+      },
+      "geometry": {
+        "coordinates": [
+          5.220466172382913,
+          60.41118484025034
+        ],
+        "type": "Point"
+      },
+      "id": 5
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Fiskedam",
+        "icon": "🐟"
+      },
+      "geometry": {
+        "coordinates": [
+          5.219596793752231,
+          60.41141018064087
+        ],
+        "type": "Point"
+      },
+      "id": 6
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Lykkehjul",
+        "icon": "🎡"
+      },
+      "geometry": {
+        "coordinates": [
+          5.22000980564755,
+          60.41139102676809
+        ],
+        "type": "Point"
+      },
+      "id": 7
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Kiosk",
+        "icon": "🎪"
+      },
+      "geometry": {
+        "coordinates": [
+          5.219813567935205,
+          60.41177973557933
+        ],
+        "type": "Point"
+      },
+      "id": 8
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "icon": "🚾"
+      },
+      "geometry": {
+        "coordinates": [
+          5.219523575341952,
+          60.41197535244933
+        ],
+        "type": "Point"
+      },
+      "id": 9
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title" : "Sekke og potet løp",
+        "icon" : "🥔"
+      },
+      "geometry": {
+        "coordinates": [
+          5.219402139464989,
+          60.41189658584358
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "icon": "🚾"
+      },
+      "geometry": {
+        "coordinates": [
+          5.219629452098218,
+          60.41213602642537
+        ],
+        "type": "Point"
+      },
+      "id": 11
+    }
+  ]
+}
