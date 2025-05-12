@@ -31,7 +31,7 @@ Her finner du et kart over ruten som 17 mai toget skal gå.
       zoomControl: true,
       minZoom: 10,
       maxZoom: 19
-    }).setView([60.41208772896303, 5.2243880385484545], 17);
+    }).setView([60.41208772896303, 5.2243880385484545], 16);
           
 
     L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {

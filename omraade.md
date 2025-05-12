@@ -4,7 +4,7 @@ title: 🗺️ Kart over området
 permalink: /omraade/
 ---
 # 🗺️ Kart over området
-Her finner du et kart over skoleområdet med oversikt over leker, aktiviteter, kafeer og andre viktige soner under 17. mai-feiringen.
+Her finner du et kart over skoleområdet med oversikt over leker, aktiviteter, kafeer og m.m.
 
 <hr>
 
