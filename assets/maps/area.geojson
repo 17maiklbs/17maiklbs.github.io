@@ -4,7 +4,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Leker",
+        "title": "Sykling<br>Stylter<br>Gullfoten",
         "description": "Sykling, stylter og fotball."
       },
       "geometry": {
@@ -39,7 +39,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Kafe",
+        "title": "Kake<br>kaffe/te<br>brus",
         "description": "Kake, kaffe/te og brus"
       },
       "geometry": {
@@ -90,7 +90,7 @@
       "type": "Feature",
       "properties": {
         "title": "Lynlodd",
-        "icon": "🌟"
+        "icon": "🍀"
       },
       "geometry": {
         "coordinates": [
@@ -104,7 +104,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Kast",
+        "title": "Kast på blink",
         "icon": "🤾"
       },
       "geometry": {
@@ -119,8 +119,8 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Spiker",
-        "description": "slkdfjlskd",
+        "title": "Spikekonkurranse",
+        "description": "Spikekonkurranse",
         "icon": "🔨"
       },
       "geometry": {
@@ -151,7 +151,7 @@
       "type": "Feature",
       "properties": {
         "title": "Lykkehjul",
-        "icon": "🎡"
+        "icon": "🌟"
       },
       "geometry": {
         "coordinates": [
@@ -194,7 +194,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title" : "Sekke og potet løp",
+        "title" : "Potetløp og sekkeløp",
         "icon" : "🥔"
       },
       "geometry": {
