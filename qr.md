@@ -10,7 +10,7 @@ title: QR Code for this Site
 <script src="https://cdnjs.cloudflare.com/ajax/libs/qrcodejs/1.0.0/qrcode.min.js"></script>
 <script>
 // Get the current URL of the site
-const siteUrl = window.location.href;
+const siteUrl = window.location.origin;
 
 // Generate QR code
 new QRCode(document.getElementById("qrcode"), {
