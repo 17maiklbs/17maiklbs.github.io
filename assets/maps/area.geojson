@@ -4,7 +4,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Sykling<br>Stylter<br>Gullfoten",
+        "title": "Stylter<br>🚴 Sykling 🚴<br>⚽ Gullfoten ⚽",
         "description": "Sykling, stylter og fotball."
       },
       "geometry": {
@@ -94,8 +94,22 @@
       },
       "geometry": {
         "coordinates": [
-          5.219827258953387,
-          60.41222026645312
+          5.219826501431072,
+          60.41216187871825
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Premie Leker",
+        "icon": "🎁"
+      },
+      "geometry": {
+        "coordinates": [
+          5.219818239321228,
+          60.412277463692675
         ],
         "type": "Point"
       },
@@ -109,8 +123,8 @@
       },
       "geometry": {
         "coordinates": [
-          5.220641873575829,
-          60.411553270978345
+          5.2206114018562175,
+          60.4116750574951
         ],
         "type": "Point"
       },
@@ -125,8 +139,8 @@
       },
       "geometry": {
         "coordinates": [
-          5.220466172382913,
-          60.41118484025034
+          5.220600385709986,
+          60.41139084844096
         ],
         "type": "Point"
       },
@@ -194,7 +208,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title" : "Potetløp og sekkeløp",
+        "title" : "Potetløp <br> Sekkeløp",
         "icon" : "🥔"
       },
       "geometry": {
