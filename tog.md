@@ -9,11 +9,41 @@ Her finner du et kart over ruten som 17 mai toget skal gå.
 
 <hr>
 
-<div id="map" style="height: 70vh; width: 100%; margin-bottom: 2rem;"></div>
+<div class="container-fluid my-3">
+  <div class="row g-3 align-items-start">
+    <!-- Flowchart Card -->
+    <div class="col-md-auto" style="min-width: 100px; max-width: 160px;">
+      <div class="card shadow-sm rounded-3">
+        <div class="card-body">
+          <h6 class="card-title mb-3">🚶 Oppstilling</h6>
+          <div class="mermaid">
+            graph TD
+              1(7. Klasse) --> 2(Kleppestø<br>barnehage)
+              2(Kleppestø<br>barnehage) --> 3(Stognafjell<br>barnehage)
+              3(Stognafjell<br>barnehage) --> 4(Korpset)
+              4(Korpset) --> 5(1. Klasse)
+              5(1. Klasse) --> 6(1. Klasse)
+              6(2. Klasse) --> 7(3. Klasse)
+              7(3. Klasse) --> 8(4. Klasse)
+              8(4. Klasse) --> 9(5. Klasse)
+              9(5. Klasse) --> 10(6. Klasse)
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- Map Section -->
+    <div class="col">
+      <div class="map-container position-relative" style="height: 80vh; width: 100%;">
+        <div id="map" class="w-100 h-100 rounded shadow-sm"></div>
+      </div>
+    </div>
+  </div>
+</div>
 
 <!-- Leaflet CSS and JS -->
 <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
 <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.min.js"></script>
 
 <style>
   .line-label {
@@ -26,6 +56,7 @@ Her finner du et kart over ruten som 17 mai toget skal gå.
 </style>
 
 <script>
+  mermaid.initialize({ startOnLoad: true });
   document.addEventListener("DOMContentLoaded", function () {
     const map = L.map('map', {
       zoomControl: true,

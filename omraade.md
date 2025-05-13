@@ -8,7 +8,9 @@ Her finner du et kart over skoleområdet med oversikt over leker, aktiviteter, k
 
 <hr>
 
-<div id="map" style="height: 70vh; width: 100%; margin-bottom: 2rem;"></div>
+<div class="map-container position-relative" style="height: 80vh; width: 100%;">
+  <div id="map" class="w-100 h-100 rounded shadow-sm"></div>
+</div>
 
 <!-- Leaflet CSS and JS -->
 <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
