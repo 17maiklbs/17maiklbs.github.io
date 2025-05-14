@@ -29,3 +29,25 @@ Her på siden finner du:<br>
 - **15:15:** Arrangementet avsluttes
 
 Vi gleder oss til å feire sammen med dere! 🇳🇴🎶
+
+#### Sponsorer
+
+En stor takk til alle våre sponsorer som bidrar til å gjøre feiringen mulig!
+
+<div class="row">
+  {% assign images = site.static_files | where_exp: "file", "file.path contains '/assets/img/'" %}
+  {% for image in images %}
+    <div class="col-md-4 mb-3">
+      <img src="{{ image.path | relative_url }}" alt="{{ image.name }}" class="img-fluid sponsor-img" />
+    </div>
+  {% endfor %}
+</div>
+
+<style>
+  .sponsor-img {
+    max-width: 200px;
+    height: auto;
+    margin: 0 auto;
+    display: block;
+  }
+</style>
