@@ -22,7 +22,9 @@ Her på siden finner du:<br>
 - **11:00:** Program på Kleppestø barneskole
   - Opptreden og ord for dagen ved skolens elever.
   - Tale v/ elevrådsleder
-- **11:45:** Prosesjonen går fra Kleppestø barneskole til Helsetunet, deretter ned hovedveien til Kleppestø senter, opp Gamle Kleppestøvegen og tilbake til Kleppestø barneskole. [Kart finner du her](/tog/).
+- **11:45:** Prosesjonen 
+  - Går fra Kleppestø barneskole til Helsetunet, deretter ned hovedveien til Kleppestø senter, opp Gamle Kleppestøvegen og tilbake til Kleppestø barneskole. 
+  - [Kart finner du her](/tog/).
 - **12:45:** Kafeteria med servering på skolen
   - Leker og spillboder åpnes
   - (Stenger 15:15)
